@@ -5,7 +5,7 @@ Run powerful **machine learning models** in your browser — **for free**.
 
 This project is a lightweight web application built using **React.js**, **Huggingface.js**, and **TailwindCSS** that transcribes speech to text and translates it — all **client-side**. No backend server. No GPU cost. Just cutting-edge ML in your browser.
 
----
+-----
 
 ## 🚀 Features
 
