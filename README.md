@@ -145,6 +145,6 @@ Uploaded audio files
 Clone the repo:
 
 ```bash
-git clone https://github.com/Anishhar03/scribidoo.git
+git clone https://github.com/aman081/scribidoo.git
 cd transcribe-translate-app
 
